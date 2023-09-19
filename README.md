@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steph, or my gaming/coding handle is @mcfuzznstuff
 - 👀 I’m interested in marketing site development for small businesses.
-- 🌱 I’m currently learning how to build e-commerce sites.
+- 🌱 I’m currently learning how to build ADA-compliant e-commerce sites for small business owners.
 - 💞️ I’m looking to collaborate on nothing quite yet.
 - 📫 How to reach me [email](stephanie@thestephaniemiranda.com) or via [UpWork]([url](https://www.upwork.com/freelancers/~015c0bcdf0e6184ccf)). There you'll find other ways to contact me, such as a Calendly link for video calls.
 
