@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Steph, or my gaming/coding handle is @mcfuzznstuff
-- 👀 I’m interested in marketing site development for small businesses.
-- 🌱 I’m currently learning how to build ADA-compliant e-commerce sites for small business owners.
+- 👀 I’m interested in accessibility audits and minor marketing site development and updates for small businesses and non-profits.
+- 🌱 I’m currently learning how to build ADA-compliant e-commerce sites for small business owners and non-profits.
 - 💞️ I’m looking to collaborate on nothing quite yet.
-- 📫 How to reach me: [email](stephanie@thestephaniemiranda.com), [Calendly - 30-min video chat](https://calendly.com/sw-bits-ltd/30min) or via [UpWork - direct hire](https://www.upwork.com/freelancers/~015c0bcdf0e6184ccf).
+- 📫 How to reach me: [email](steph@sw-bits.com), [Calendly - 30-min video chat](https://calendly.com/sw-bits-ltd/30min) or via [UpWork - direct hire](https://www.upwork.com/freelancers/~015c0bcdf0e6184ccf).
 
 <!---
 mcfuzznstuff/mcfuzznstuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
